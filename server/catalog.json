@@ -1,0 +1,62 @@
+[
+  {
+    "id": "el1",
+    "name": "Видеокарта Palit GeForce RTX 3060 Dual",
+    "img": "https://c.dns-shop.ru/thumb/st4/fit/500/500/35847a5eb46c9cc12a9a786f9b4d9140/cbd51a7e8677521d28cb226b83f2f44fe3571ae8e2992d2c4b10506e3587abec.jpg.webp",
+    "price": 33299
+  },
+  {
+    "id": "el2",
+    "name": "Процессор Intel Core i5-12400 OEM",
+    "img": "https://c.dns-shop.ru/thumb/st1/fit/500/500/b1b1de45e16670889036b36729c27b01/13695d4cf06fee91b4ae558e71766270e404a3234357dea01f294deae7cae632.jpg.webp",
+    "price": 17999
+  },
+  {
+    "id": "el3",
+    "name": "Процессор AMD Ryzen 5 5600X OEM",
+    "img": "https://c.dns-shop.ru/thumb/st4/fit/500/500/32635144b0b201b030bc36ddf19d8616/a60d568636c393c611792fb99f68dd97fb6fe3de90e8bd6f085c7c321e9e32b0.jpg.webp",
+    "price": 15999
+  },
+  {
+    "id": "el4",
+    "name": "Ноутбук Honor MagicBook X 14 FRI-F58 серый",
+    "img": "https://c.dns-shop.ru/thumb/st1/fit/500/500/795856e90d8a301660572c38ba04ec7e/4f0fd0320141623efad6a629eec74d22f15cc314e59e01bd3be8747bea8869a7.jpg.webp",
+    "price": 72999
+  },
+  {
+    "id": "el5",
+    "name": "Мышь беспроводная/проводная ARDOR GAMING Phantom PRO",
+    "img": "https://c.dns-shop.ru/thumb/st1/fit/500/500/e4d8e0b4aa1dc1c3449b0a705539b0bf/804e8b3807f885e6a3fe9ac95097304042321416e79e01bd906995e0950a76e7.jpg.webp",
+    "price": 5499
+  },
+  {
+    "id": "el6",
+    "name": "Мышь беспроводная Logitech PRO X SUPERLIGHT",
+    "img": "https://c.dns-shop.ru/thumb/st4/fit/500/500/67d8251612f174e12816607162a3e734/49ad1af235cb520a4134c4957d28bf034c2d8be7518b9a2efbd9cdb4d7fc534a.jpg.webp",
+    "price": 12999
+  },
+  {
+    "id": "el7",
+    "name": "Видеокарта GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G",
+    "img": "https://c.dns-shop.ru/thumb/st4/fit/500/500/eac2f8ea7a8e309344cf635370190a76/90030b99eddc65c862fd1cb26918c59013fb4f1b8a109ddc33d6083ded3547c0.jpg.webp",
+    "price": 68999
+  },
+  {
+    "id": "el8",
+    "name": "Клавиатура проводная Dark Project KD83A",
+    "img": "https://c.dns-shop.ru/thumb/st4/fit/500/500/8eda275e0dc4bdb4bd96432f13a465fb/373cf6904326e367afadea0ca096bd44433c269469af0ec69e7d51f54538a01e.jpg.webp",
+    "price": 9999
+  },
+  {
+    "id": "el9",
+    "name": "Клавиатура проводная ARDOR GAMING Patron 60%",
+    "img": "https://c.dns-shop.ru/thumb/st4/fit/500/500/2b64ab4b0f71d0cc3046a7b89b36de2b/5b57e3b02964e373a3ffa5b57cfe2ab4e734a0c79a2b6ec561c837b366788766.jpg.webp",
+    "price": 7899
+  },
+  {
+    "id": "el10",
+    "name": "Набор - Визин® Классический 15 мл х 2",
+    "img": "https://images.apteka.ru/medium_e059e656-f796-451e-9896-4c460ee09916.webp",
+    "price": 866
+  }
+]
